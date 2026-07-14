@@ -9,29 +9,49 @@ The objective was to convert raw sales data into an easy-to-understand dashboard
 This project was inspired by Alex The Analyst's Excel Dashboard tutorial, where I recreated the dashboard while understanding the purpose behind each step and the business questions being answered.
 - - - 
 
-**Dataset:
-**
+**Dataset:**
+
 The dataset contains customer information related to bike purchases, including:
 
 Customer ID
+
 Age
+
 Gender
+
 Marital Status
+
 Education
+
 Occupation
+
 Annual Income
+
 Region
+
 Commute Distance
+
 Number of Children
+
 Home Ownership
+
 Purchase Status
-🛠️ Tools Used
+- - - 
+
+**Tools Used:**
+
 Microsoft Excel
+
 Pivot Tables
+
 Pivot Charts
+
 Slicers
+
 Excel Formulas
+
 Data Cleaning Techniques
+
 Dashboard Design
 - - - 
 
@@ -40,10 +60,15 @@ Dashboard Design
 This project focuses on transforming raw customer data into an interactive dashboard by:
 
 Cleaning and preparing the dataset
+
 Creating meaningful calculated fields
+
 Summarizing data using Pivot Tables
+
 Building interactive visualizations
+
 Enabling dynamic filtering with Slicers
+
 Presenting business insights in a user-friendly dashboard
 - - - 
 
@@ -54,8 +79,11 @@ Presenting business insights in a user-friendly dashboard
 The raw dataset was reviewed and prepared before analysis by:
 
 Checking for missing or inconsistent values
+
 Formatting columns for consistency
+
 Creating helper columns where necessary
+
 Organizing the data for Pivot Table analysis
 
 2. Data Analysis
@@ -63,9 +91,13 @@ Organizing the data for Pivot Table analysis
 Used Pivot Tables to summarize customer purchasing behavior based on multiple attributes, including:
 
 Income
+
 Age Group
+
 Commute Distance
+
 Gender
+
 Region
 
 3. Dashboard Development
@@ -80,11 +112,17 @@ The dashboard provides a clear overview of customer purchasing trends and enable
 The dashboard includes interactive visualizations for:
 
 Average income by purchase status
+
 Customer age group analysis
+
 Purchase trends based on commute distance
+
 Dynamic filtering by:
+
 Marital Status
+
 Education
+
 Region
 
 These interactive elements make it easier to explore customer behavior and identify purchasing patterns.
@@ -93,14 +131,23 @@ These interactive elements make it easier to explore customer behavior and ident
 **Excel Skills Demonstrated:**
 
 Data Cleaning
+
 Data Preparation
+
 Pivot Tables
+
 Pivot Charts
+
 Slicers
+
 Dashboard Design
+
 Data Visualization
+
 Calculated Columns
+
 Business Reporting
+
 Interactive Analysis
 - - - 
 
@@ -109,6 +156,9 @@ Interactive Analysis
 Some of the insights identified through the dashboard include:
 
 Customer purchasing behavior varies across different income levels.
+
 Age groups show different buying patterns, helping identify potential target audiences.
+
 Commute distance appears to influence purchasing decisions.
+
 Regional and demographic filters allow deeper exploration of customer trends and support more informed business decisions.
