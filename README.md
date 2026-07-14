@@ -165,6 +165,7 @@ Regional and demographic filters allow deeper exploration of customer trends and
 - - - 
 
 **Dashboard Visualisation:**
+
 <img width="1278" height="945" alt="image" src="https://github.com/user-attachments/assets/8d24e1f1-8b9e-4ac2-ace0-1a654daeb063" />
 
 <img width="1281" height="906" alt="image" src="https://github.com/user-attachments/assets/61e6483c-a517-46bf-888f-f0b36961e3d9" />
